@@ -1,0 +1,13 @@
+{% if page.social %}
+<ul class="social">
+
+	{% for item in page.social %}
+	{% if item.url %}
+	<li>
+		<a href="{% if item.type == 'email' %}mailto:{{ item.url }}{% else %}{{ item.url }}{% endif %}" title="{{ meta-title }} on {{ item.type }}" class="icon-{{ item.type }}"></a>
+	</li>
+	{% endif %}
+	{% endfor %}
+
+</ul>
+{% endif %}
