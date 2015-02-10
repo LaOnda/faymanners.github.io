@@ -17,7 +17,7 @@ social:
   - type: twitter
     url: https://twitter.com/fredDski
   - type: facebook
-    url: https://www.facebook.com/badmannerssnowboarding
+    url: https://www.facebook.com/fredDski
   - type: instagram
     url:
   - type: youtube
@@ -28,8 +28,8 @@ social:
     url:
 
 testimonial:
-  - quote: I could barely snowplough and now I can do parrallel turns! 
-    source: Fay
+  - quote: Thank you for improving my skiing 
+    source: Yvonne Robertson
 
 footer: Here's some text for the footer, with an <a href="">anchor</a> included.
 ---
