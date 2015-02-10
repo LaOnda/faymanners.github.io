@@ -5,9 +5,7 @@ meta-title: Frederick Dibblee | Ski Instructor
 meta-description: stuff in here
 
 title: Frederick Dibblee
-description: Director of fredDski
-BASI ISTD L4 National Ski Teacher 
-Alpine Performance Level Coach 2 European Off piste Mountain Safety
+description: Director of fredDski, BASI ISTD L4 National Ski Teacher, Alpine Performance Level Coach 2 European Off piste Mountain Safety
 
 cta: More about Fred
 
