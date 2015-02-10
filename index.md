@@ -5,7 +5,9 @@ meta-title: Frederick Dibblee | Ski Instructor
 meta-description: stuff in here
 
 title: Frederick Dibblee
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: Director of fredDski
+BASI ISTD L4 National Ski Teacher 
+Alpine Performance Level Coach 2 European Off piste Mountain Safety
 
 cta: More about Fred
 
@@ -13,9 +15,9 @@ banner: banner.png
 
 social:
   - type: email
-    url: hello@adamwhitcroft.com
+    url: freddibblee@hotmail.com
   - type: twitter
-    url: https://twitter.com/adamwhitcroft
+    url: https://twitter.com/fredDski
   - type: facebook
     url:
   - type: instagram
@@ -28,8 +30,8 @@ social:
     url:
 
 testimonial:
-  - quote: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.
-    source: Lenny
+  - quote: I could barely snowplough and now I can do parrallel turns! 
+    source: Fay
 
 footer: Here's some text for the footer, with an <a href="">anchor</a> included.
 ---
