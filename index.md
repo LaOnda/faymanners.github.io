@@ -5,7 +5,7 @@ meta-title: Frederick Dibblee | Ski Instructor
 meta-description: stuff in here
 
 title: Frederick Dibblee
-description: Director of fredDski, BASI ISTD L4 National Ski Teacher, Alpine Performance Level Coach 2 European Off piste Mountain Safety
+description: BASI Level 4 Ski Teacher with full French equivalents
 
 cta: More about Fred
 
@@ -23,7 +23,7 @@ social:
   - type: youtube
     url:
   - type: tumblr
-    url: http://theunusualworldoftouring.tumblr.com
+    url: http://freddski.tumblr.com
   - type: linkedin
     url:
 
@@ -38,4 +38,4 @@ Hi, my name is Fred and I have worked in the Alps for over 10 years. I have a wi
 
 {% include testimonial.html %}
 
-The most rewarding challenge for me is the 'Plato skier' who has reached a point they cannot get past. I have a passion for the mountains all year round and in the summer can be found rock climbing on the crags of North Wales.
+The most rewarding challenge for me is the 'Plateau' skier who has reached a point they cannot get past. I have a passion for the mountains all year round and in the summer can be found rock climbing on the crags of North Wales.
