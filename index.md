@@ -17,13 +17,13 @@ social:
   - type: twitter
     url: https://twitter.com/fredDski
   - type: facebook
-    url:
+    url: https://www.facebook.com/badmannerssnowboarding
   - type: instagram
     url:
   - type: youtube
     url:
   - type: tumblr
-    url: https://twitter.com/adamwhitcroft
+    url: http://theunusualworldoftouring.tumblr.com
   - type: linkedin
     url:
 
