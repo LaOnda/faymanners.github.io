@@ -5,7 +5,7 @@ meta-title: Frederick Dibblee | Ski Instructor
 meta-description: stuff in here
 
 title: Frederick Dibblee
-description: BASI Level 4 Ski Teacher with full French equivalents
+description: Fully qualified Ski Instructor working in Chamonix, France
 
 cta: More about Fred
 
