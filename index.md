@@ -28,7 +28,7 @@ social:
     url:
 
 testimonial:
-  - quote: Thank you for improving my skiing 
+  - quote: 20 years of skiing badly : 20 minutes with Fred and my skiing was deconstructed and he had given me the key to perfect performance. Now I just need lots of perfect practice!  
     source: Yvonne Robertson
 
 footer: Here's some text for the footer, with an <a href="">anchor</a> included.
