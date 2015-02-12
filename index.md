@@ -31,7 +31,7 @@ testimonial:
   - quote: 20 years of skiing badly and then 20 minutes with Fred. He deconstructed my skiing and gave me the key to perfect performance. Now I just need lots of perfect practice!
     source: Yvonne Robertson
 
-footer: Here's some text for the footer, with an <a href="">anchor</a> included.
+footer:
 ---
 
 Hi, my name is Fred and I have worked in the Alps for over 10 years. I have a wide variety of experience including on piste performance, race coaching and backcountry skiing. I enjoy working with skiers of all abilities but especially with beginners.

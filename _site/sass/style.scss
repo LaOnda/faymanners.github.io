@@ -144,18 +144,26 @@ header {
 
 	li {
 		display: inline-block;
-		margin: 1em;
+		margin: .5em;
 
 	    @media screen and (max-width: 960px) {
-	    	margin: 0 1em;
+	    	margin: 0 .5em;
 	    }
 
 		a {
-			display: block;
-			width: 2em;
-			height: 2em;
-			background: yellow;
-			@include vendor(border-radius, 100%);
+			text-transform: uppercase;
+			color: $color;
+			text-decoration: none;
+			font-weight: 900;
+
+			&:hover {
+				color: #ccc;
+			}
+
+		    @media screen and (max-width: 960px) {
+		    	font-size: .75em;
+		    }
+
 		}
 
 	}
@@ -204,6 +212,13 @@ blockquote {
 		line-height: 1.5em;
 		font-style: italic;
 		margin-bottom: 0;
+		position: relative;
+
+		&:before,
+		&:after {
+			content: '"';
+		}
+
 	}
 
 	.cite {
@@ -212,11 +227,6 @@ blockquote {
 	}
 
 }
-
-/*	IMG GRID
-/*==================================================*/
-
-@import 'img-grid';
 
 /*	FOOTER
 /*==================================================*/
