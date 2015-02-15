@@ -7,7 +7,7 @@ meta-description: stuff in here
 title: BadManners Ltd
 description: Data Consultancy
 
-cta: More about BadManners Ltd
+cta: More about Fay
 
 banner: banner.png
 
