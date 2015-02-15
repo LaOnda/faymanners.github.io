@@ -28,14 +28,14 @@ social:
     url: uk.linkedin.com/pub/fay-manners/12/907/a8b/en
 
 testimonial:
-  - quote: Fay is passionate and creative. She is one of the most charismatic and hardworking young ladies I have met in the IT industry.
-    source: Alessandro Ventura, Director at Unilever
+  - quote: Fay is passionate and creative. She is one of the most charismatic and hardworking individuals I have met in the IT industry.
+    source: Jason Phoenix, Director at Unilever
 
 footer:
 ---
 
-Hi, my name is Fay Manners and I am the director of BadManners Ltd. I have a BSc degree in Information Science and six years experience of working with data. I have worked out of the London and New York headquarters for Unilever plc and have also worked out of the Reading IT development offices for MediaSift Ltd. With the exception of hating Ben & Jerry's ice cream and being addicted to the trading card game Magic: The Gathering, my brain has grown a lot.   
+Hi, my name is Fay Manners and I am the founder and CEO of the BadManners Conglomerate. I have a BSc degree in Information Science and six years experience in industry. I have worked for Unilever Plc in both London and New York headquarters. I also worked for DataSift, the only independent provider of real time and historic social data. With the exception of now hating Ben & Jerry's ice cream and being addicted to playing "Magic: The Gathering", this industry experience has been my pathway into data consultancy.    
 
 {% include testimonial.html %}
 
-When I am not fixated to my laptop I can be found in the mountains. I currently specialise in analysing and visualising social data and also backcountry snowboarding in the Alps. 
+When I am not glued to my laptop I can be found in the mountains. I currently specialise in analysing and visualising social data and also backcountry snowboarding in the French Alps. 
