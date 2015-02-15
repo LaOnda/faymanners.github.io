@@ -25,7 +25,7 @@ social:
   - type: tumblr
     url: 
   - type: linkedin
-    url: uk.linkedin.com/pub/fay-manners/12/907/a8b/en
+    url: https://uk.linkedin.com/pub/fay-manners/12/907/a8b
 
 testimonial:
   - quote: Fay is passionate and creative. She is one of the most charismatic and hardworking individuals I have met in the IT industry.
