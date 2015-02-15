@@ -1,31 +1,31 @@
 ---
 layout: default
 
-meta-title: Frederick Dibblee | Ski Instructor
+meta-title: Fay Manners | Data Consultant
 meta-description: stuff in here
 
-title: Frederick Dibblee
-description: Fully qualified Ski Instructor working in Chamonix, France
+title: Fay Manners
+description: Data Consultant
 
-cta: More about Fred
+cta: More about Fay
 
 banner: banner.png
 
 social:
   - type: email
-    url: freddibblee@hotmail.com
+    url: fay.manners@gmail.com
   - type: twitter
-    url: https://twitter.com/fredDski
+    url: https://twitter.com/f_manners
   - type: facebook
-    url: https://www.facebook.com/fredDski
+    url: 
   - type: instagram
     url:
   - type: youtube
     url:
   - type: tumblr
-    url: http://freddski.tumblr.com
+    url: 
   - type: linkedin
-    url:
+    url: uk.linkedin.com/pub/fay-manners/12/907/a8b/en
 
 testimonial:
   - quote: 20 years of skiing badly and then 20 minutes with Fred. He deconstructed my skiing and gave me the key to perfect performance. Now I just need lots of perfect practice!
