@@ -1,13 +1,13 @@
 ---
 layout: default
 
-meta-title: Fay Manners | Data Consultant
+meta-title: BadManners Ltd | Data Consultancy
 meta-description: stuff in here
 
-title: Fay Manners
-description: Data Consultant
+title: BadManners Ltd
+description: Data Consultancy
 
-cta: More about Fay
+cta: More about BadManners Ltd
 
 banner: banner.png
 
@@ -28,14 +28,14 @@ social:
     url: uk.linkedin.com/pub/fay-manners/12/907/a8b/en
 
 testimonial:
-  - quote: 20 years of skiing badly and then 20 minutes with Fred. He deconstructed my skiing and gave me the key to perfect performance. Now I just need lots of perfect practice!
-    source: Yvonne Robertson
+  - quote: Fay is passionate and creative. She is one of the most charismatic and hardworking young ladies I have met in the IT industry.
+    source: Alessandro Ventura, Director at Unilever
 
 footer:
 ---
 
-Hi, my name is Fred and I have worked in the Alps for over 10 years. I have a wide variety of experience including on piste performance, race coaching and backcountry skiing. I enjoy working with skiers of all abilities but especially with beginners.
+Hi, my name is Fay Manners and I am the director of BadManners Ltd. I have a BSc degree in Information Science and six years experience of working with data. I have worked out of the London and New York headquarters for Unilever plc and have also worked out of the Reading IT development offices for MediaSift Ltd. With the exception of hating Ben & Jerry's ice cream and being addicted to the trading card game Magic: The Gathering, my brain has grown a lot.   
 
 {% include testimonial.html %}
 
-The most rewarding challenge for me is the 'Plateau' skier who has reached a point they cannot get past. I have a passion for the mountains all year round and in the summer can be found rock climbing on the crags of North Wales.
+When I am not fixated to my laptop I can be found in the mountains. I currently specialise in analysing and visualising social data and also backcountry snowboarding in the Alps. 
